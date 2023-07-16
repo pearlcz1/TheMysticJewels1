@@ -1,0 +1,7 @@
+{
+  "parent": "themysticjewels:custom/model",
+  "textures": {
+    "0": "themysticjewels:blocks/texture_1",
+    "particle": "themysticjewels:items/file"
+  }
+}

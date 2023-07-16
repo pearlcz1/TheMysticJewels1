@@ -4,8 +4,8 @@
   "definition": {
     "name": "The Mystic Jewels",
     "icon": {
-      "value": "Blocks.LIME_BED"
+      "value": "CUSTOM:Jewelphoto"
     },
-    "showSearch": false
+    "showSearch": true
   }
 }

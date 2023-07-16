@@ -19,12 +19,149 @@
       "ids": {},
       "registry_name": "jewelery_box",
       "path": "~/Jewelry box"
+    },
+    {
+      "name": "JewelBox",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jewel_box",
+      "path": "~/Jewelry box"
+    },
+    {
+      "name": "JewelBoxRightClickedInAir",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jewel_box_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jewelphoto",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jewelphoto",
+      "path": "~/Jewelry box"
+    },
+    {
+      "name": "JewelBoxOpen",
+      "type": "gui",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jewel_box_open",
+      "path": "~/GUI"
+    },
+    {
+      "name": "JeweleryBoxOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jewelery_box_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DimesionalClock",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimesional_clock",
+      "path": "~/miraculous/Dimension wacth"
+    },
+    {
+      "name": "DimensionalClockCamo",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimensional_clock_camo",
+      "path": "~/miraculous/Dimension wacth"
+    },
+    {
+      "name": "DimesionalClockRightClickedInAir",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimesional_clock_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.themysticjewels.dimesional_clock": "Dimesional Clock",
+      "item.themysticjewels.jewel_box": "Jewel Box",
+      "item.themysticjewels.dimensional_clock_camo": "Dimensional Clock Camo",
+      "item.themysticjewels.jewelphoto": "Jewelphoto",
       "itemGroup.tabthe_mystic_jewels": "The Mystic Jewels",
       "block.themysticjewels.jewelery_box": "Jewelery Box"
     }
@@ -37,6 +174,19 @@
         "children": [
           {
             "name": "Procedures",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "GUI",
+        "children": []
+      },
+      {
+        "name": "miraculous",
+        "children": [
+          {
+            "name": "Dimension wacth",
             "children": []
           }
         ]
