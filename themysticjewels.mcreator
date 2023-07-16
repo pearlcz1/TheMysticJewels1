@@ -9,13 +9,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "the_mystic_jewels"
+    },
+    {
+      "name": "JeweleryBox",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jewelery_box",
+      "path": "~/Jewelry box"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabthe_mystic_jewels": "The Mystic Jewels"
+      "itemGroup.tabthe_mystic_jewels": "The Mystic Jewels",
+      "block.themysticjewels.jewelery_box": "Jewelery Box"
     }
   },
   "foldersRoot": {
@@ -23,7 +34,12 @@
     "children": [
       {
         "name": "Jewelry box",
-        "children": []
+        "children": [
+          {
+            "name": "Procedures",
+            "children": []
+          }
+        ]
       }
     ]
   },
