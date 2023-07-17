@@ -1,0 +1,8 @@
+{
+  "parent": "themysticjewels:custom/boxopen",
+  "textures": {
+    "all": "themysticjewels:blocks/image",
+    "particle": "themysticjewels:blocks/image",
+    "0": "themysticjewels:blocks/box_open"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Select dimension",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Select dimension",
+          "x": 172,
+          "y": 47
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Earth",
+          "onClick": {
+            "name": "EARTHGUI"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Earth",
+          "x": 131,
+          "y": 64
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Nether",
+          "onClick": {
+            "name": "NETHERGUI"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Nether",
+          "x": 131,
+          "y": 94
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "End",
+          "onClick": {
+            "name": "ENDGUI"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "End",
+          "x": 132,
+          "y": 124
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Demon Forest",
+          "onClick": {
+            "name": "DEMONFORESTGUI"
+          },
+          "width": 85,
+          "height": 20,
+          "name": "Demon Forest",
+          "x": 132,
+          "y": 149
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": " Camelot",
+          "onClick": {
+            "name": "CAMELOTGUI"
+          },
+          "width": 65,
+          "height": 20,
+          "name": " Camelot",
+          "x": 132,
+          "y": 174
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Earth-1999",
+          "width": 75,
+          "height": 20,
+          "name": "Earth-1999",
+          "x": 195,
+          "y": 64
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Dimesion-616",
+          "width": 85,
+          "height": 20,
+          "name": "Dimesion-616",
+          "x": 195,
+          "y": 92
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Multiverse",
+          "width": 75,
+          "height": 20,
+          "name": "Multiverse",
+          "x": 182,
+          "y": 124
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Nether-5070",
+          "width": 80,
+          "height": 20,
+          "name": "Nether-5070",
+          "x": 203,
+          "y": 175
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Reveal",
+          "width": 55,
+          "height": 20,
+          "name": "Reveal",
+          "x": 227,
+          "y": 149
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

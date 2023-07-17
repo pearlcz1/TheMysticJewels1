@@ -1,0 +1,13 @@
+{
+  "group": "themysticjewels",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "themysticjewels:earth_1999_oak_planks"
+    }
+  ],
+  "result": {
+    "item": "themysticjewels:earth_1999_oak_button",
+    "count": 1
+  }
+}

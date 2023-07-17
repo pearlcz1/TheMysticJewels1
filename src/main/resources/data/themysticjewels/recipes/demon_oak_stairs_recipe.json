@@ -1,0 +1,33 @@
+{
+  "group": "themysticjewels",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "themysticjewels:demon_oak_planks"
+    },
+    "3": {
+      "item": "themysticjewels:demon_oak_planks"
+    },
+    "4": {
+      "item": "themysticjewels:demon_oak_planks"
+    },
+    "6": {
+      "item": "themysticjewels:demon_oak_planks"
+    },
+    "7": {
+      "item": "themysticjewels:demon_oak_planks"
+    },
+    "8": {
+      "item": "themysticjewels:demon_oak_planks"
+    }
+  },
+  "result": {
+    "item": "themysticjewels:demon_oak_stairs",
+    "count": 4
+  }
+}

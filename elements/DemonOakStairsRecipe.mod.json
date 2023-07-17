@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DemonOakPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DemonOakPlanks"
+      },
+      {
+        "value": "CUSTOM:DemonOakPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DemonOakPlanks"
+      },
+      {
+        "value": "CUSTOM:DemonOakPlanks"
+      },
+      {
+        "value": "CUSTOM:DemonOakPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DemonOakStairs"
+    },
+    "name": "demon_oak_stairs_recipe",
+    "namespace": "mod"
+  }
+}

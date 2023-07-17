@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "themysticjewels:blocks/earth1999oak_leaves",
+    "particle": "themysticjewels:blocks/earth1999oak_leaves"
+  }
+}

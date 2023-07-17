@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "themysticjewels:blocks/demonoak_planks",
+    "top": "themysticjewels:blocks/demonoak_planks",
+    "side": "themysticjewels:blocks/demonoak_planks"
+  }
+}

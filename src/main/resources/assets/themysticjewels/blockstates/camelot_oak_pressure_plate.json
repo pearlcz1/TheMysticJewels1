@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "themysticjewels:block/camelot_oak_pressure_plate"
+    },
+    "powered=true": {
+      "model": "themysticjewels:block/camelot_oak_pressure_plate_down"
+    }
+  }
+}

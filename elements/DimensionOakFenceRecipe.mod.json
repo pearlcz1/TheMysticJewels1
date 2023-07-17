@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DimensionOakPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:DimensionOakPlanks"
+      },
+      {
+        "value": "CUSTOM:DimensionOakPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:DimensionOakPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DimensionOakFence"
+    },
+    "name": "dimension_oak_fence_recipe",
+    "namespace": "mod"
+  }
+}

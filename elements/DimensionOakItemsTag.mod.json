@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:DimensionOakWood"
+      },
+      {
+        "value": "CUSTOM:DimensionOakLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "dimensionoak_log",
+    "namespace": "forge"
+  }
+}

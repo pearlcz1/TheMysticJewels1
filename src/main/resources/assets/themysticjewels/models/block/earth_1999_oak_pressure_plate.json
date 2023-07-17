@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "themysticjewels:blocks/earth1999oak_planks"
+  }
+}

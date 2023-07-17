@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Earth1999OakWood"
+      },
+      {
+        "value": "CUSTOM:Earth1999OakLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "earth1999oak_log",
+    "namespace": "forge"
+  }
+}

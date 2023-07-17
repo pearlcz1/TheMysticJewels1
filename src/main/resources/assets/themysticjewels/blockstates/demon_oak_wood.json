@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "themysticjewels:block/demon_oak_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "themysticjewels:block/demon_oak_wood"
+    },
+    "axis=z": {
+      "model": "themysticjewels:block/demon_oak_wood",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "themysticjewels:blocks/earth1999oak_log_side",
+    "particle": "themysticjewels:blocks/earth1999oak_log_side"
+  }
+}
