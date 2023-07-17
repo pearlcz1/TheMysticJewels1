@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "themysticjewels:block/earth_1999_oak_slab"
+    },
+    "type=top": {
+      "model": "themysticjewels:block/earth_1999_oak_slab_top"
+    },
+    "type=double": {
+      "model": "themysticjewels:block/earth_1999_oak_slab_full"
+    }
+  }
+}

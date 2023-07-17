@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "themysticjewels:block/cameloty_portal_ew"
+    },
+    "axis=x": {
+      "model": "themysticjewels:block/cameloty_portal_ns"
+    }
+  }
+}

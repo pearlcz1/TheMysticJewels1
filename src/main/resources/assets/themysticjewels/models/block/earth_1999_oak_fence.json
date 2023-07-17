@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "themysticjewels:blocks/earth1999oak_planks",
+    "particle": "themysticjewels:blocks/earth1999oak_planks"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "themysticjewels",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "themysticjewels:deleted_mod_element"
+    }
+  ],
+  "result": {
+    "item": "themysticjewels:dimension_oak_button",
+    "count": 1
+  }
+}

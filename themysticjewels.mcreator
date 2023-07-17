@@ -2,6 +2,15 @@
   "id_map": {},
   "mod_elements": [
     {
+      "name": "TheMysticJewels",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_mystic_jewels"
+    },
+    {
       "name": "JeweleryBox",
       "type": "block",
       "sortid": 2,
@@ -124,30 +133,1054 @@
       }
     },
     {
-      "name": "TheMysticJewels",
-      "type": "tab",
+      "name": "DemonOakStairsRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_stairs_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DimensionOakStairsRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_stairs_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "Earth1999OakFenceRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_fence_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "DemonOakFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_fence_gate_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DemonOakButton",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_button",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "CamelotOakItemsTag",
+      "type": "tag",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_items_tag",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "Camelot",
+      "type": "biome",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DimensionOakButton",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_button",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "DemonOakButtonRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_button_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DimensionOakButtonRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_button_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "DemonOakItemsTag",
+      "type": "tag",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_items_tag",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DimensionOakSlab",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_slab",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "DemonOakLog",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_log",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "CamelotOakStairsRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_stairs_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "Earth1999OakButtonRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_button_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "CamelotOakLog",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_log",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "CamelotOakStickRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_stick_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "DimensionOakWood",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_wood",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "Earth1999OakButton",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_button",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "DemonOakFence",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_fence",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "Earth1999OakStickRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_stick_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "Demon",
+      "type": "biome",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "NETHERGUI",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nethergui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/miraculous/Dimension wacth/dimensions/Codes for the GUI"
+    },
+    {
+      "name": "Earth1999OakSlabRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_slab_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "ENDGUI",
+      "type": "procedure",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endgui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/miraculous/Dimension wacth/dimensions/Codes for the GUI"
+    },
+    {
+      "name": "Earth1999OakLeaves",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_leaves",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "Earth1999OakStairsRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_stairs_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "DemonOakStickRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_stick_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DimensionOakFenceRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_fence_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "DemonOakStairs",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_stairs",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DimensionOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_planks_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "Earth1999OakFence",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_fence",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "DemonOakFenceRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_fence_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "Earth1999OakPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_pressure_plate_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "DimensionOakSlabRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_slab_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "Cameloty",
+      "type": "dimension",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cameloty",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/miraculous/Dimension wacth/dimensions"
+    },
+    {
+      "name": "Earth1999OakWood",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_wood",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "DemonOakPlanks",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_planks",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "CamelotOakSlabRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_slab_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "Earth1999OakSlab",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_slab",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "Dimension616",
+      "type": "biome",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_616",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "DimensionOakPlanks",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_planks",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "DimensionOakPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_pressure_plate_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "CamelotOakFenceGate",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_fence_gate",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "DimensionOakLeaves",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_leaves",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "JeweleryBoxOpen",
+      "type": "block",
       "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "the_mystic_jewels"
+      "registry_name": "jewelery_box_open",
+      "path": "~/Jewelry box"
+    },
+    {
+      "name": "DemonOakLeaves",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_leaves",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DemonOakWoodRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_wood_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "CamelotOakPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_pressure_plate_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "DimensionOakLog",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_log",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "DimensionOakStickRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_stick_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "Earth1999OakLog",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_log",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "Earth1999OakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_planks_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "DemonOakSlab",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_slab",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "CAMELOTGUI",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelotgui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/miraculous/Dimension wacth/dimensions/Codes for the GUI"
+    },
+    {
+      "name": "DimensionOakFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_fence_gate_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "Earth1999OakPlanks",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_planks",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "Earth1999OakFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_fence_gate_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "Earth1999OakStairs",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_stairs",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "DimensionOakFence",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_fence",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "CamelotOakFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_fence_gate_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "EARTHGUI",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earthgui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/miraculous/Dimension wacth/dimensions/Codes for the GUI"
+    },
+    {
+      "name": "CamelotOakSlab",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_slab",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "CamelotOakButtonRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_button_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "DemonOakPressurePlate",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_pressure_plate",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DemonOakSlabRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_slab_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DimensionClockTablet",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_clock_tablet",
+      "path": "~/miraculous/Dimension wacth"
+    },
+    {
+      "name": "DemonOakWood",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_wood",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "Dimensions",
+      "type": "gui",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimensions",
+      "path": "~/miraculous/Dimension wacth"
+    },
+    {
+      "name": "CamelotOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_planks_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "Dimension",
+      "type": "particle",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension",
+      "path": "~/miraculous/Dimension wacth"
+    },
+    {
+      "name": "DemonOakPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_pressure_plate_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "Earth1999OakPressurePlate",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_pressure_plate",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "CamelotOakPlanks",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_planks",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "DimensionOakStairs",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_stairs",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "CamelotOakPressurePlate",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_pressure_plate",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "CamelotOakLeaves",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_leaves",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "Earth1999OakFenceGate",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_fence_gate",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "CamelotOakWoodRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_wood_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "Earth1999OakItemsTag",
+      "type": "tag",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_items_tag",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "DimensionOakFenceGate",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_fence_gate",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "DEMONFORESTGUI",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonforestgui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/miraculous/Dimension wacth/dimensions/Codes for the GUI"
+    },
+    {
+      "name": "CamelotOakWood",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_wood",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "CamelotOakButton",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_button",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "CamelotOakFence",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_fence",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "DimensionOakWoodRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_wood_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "DemonOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_planks_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "DemonOakFenceGate",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_oak_fence_gate",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome"
+    },
+    {
+      "name": "CamelotOakStairs",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_stairs",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "DemonForest",
+      "type": "dimension",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_forest",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/miraculous/Dimension wacth/dimensions"
+    },
+    {
+      "name": "DimensionOakPressurePlate",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_pressure_plate",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "DimensionOakItemsTag",
+      "type": "tag",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_oak_items_tag",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Dimension-616"
+    },
+    {
+      "name": "Earth1999OakWoodRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999_oak_wood_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
+    },
+    {
+      "name": "CamelotOakFenceRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camelot_oak_fence_recipe",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Camelot"
+    },
+    {
+      "name": "Earth1999",
+      "type": "biome",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_1999",
+      "path": "~/miraculous/Dimension wacth/dimensions/biome/Earth-199"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.themysticjewels.dimesional_clock": "Dimesional Clock",
-      "item.themysticjewels.jewel_box": "Jewel Box",
-      "item.themysticjewels.dimensional_clock_camo": "Dimensional Clock Camo",
-      "item.themysticjewels.jewelphoto": "Jewelphoto",
       "block.themysticjewels.jewelery_box": "Jewelery Box",
-      "itemGroup.tabthe_mystic_jewels": "The Mystic Jewels"
+      "item.themysticjewels.dimensional_clock_camo": "Dimensional Clock Camo",
+      "item.themysticjewels.dimesional_clock": "Dimesional Clock",
+      "block.themysticjewels.jewelery_box_open": "Jewelery Box Open",
+      "item.themysticjewels.jewelphoto": "Jewelphoto",
+      "itemGroup.tabthe_mystic_jewels": "The Mystic Jewels",
+      "item.themysticjewels.jewel_box": "Jewel Box"
     }
   },
   "foldersRoot": {
     "name": "~",
     "children": [
+      {
+        "name": "miraculous",
+        "children": [
+          {
+            "name": "Dimension wacth",
+            "children": [
+              {
+                "name": "dimensions",
+                "children": [
+                  {
+                    "name": "biome",
+                    "children": [
+                      {
+                        "name": "Camelot",
+                        "children": []
+                      },
+                      {
+                        "name": "Earth-199",
+                        "children": []
+                      },
+                      {
+                        "name": "Dimension-616",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Codes for the GUI",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
       {
         "name": "Jewelry box",
         "children": [
@@ -160,15 +1193,6 @@
       {
         "name": "GUI",
         "children": []
-      },
-      {
-        "name": "miraculous",
-        "children": [
-          {
-            "name": "Dimension wacth",
-            "children": []
-          }
-        ]
       }
     ]
   },

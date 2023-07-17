@@ -1,0 +1,22 @@
+{
+  "group": "themysticjewels",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "themysticjewels:deleted_mod_element"
+    },
+    "1": {
+      "item": "themysticjewels:deleted_mod_element"
+    },
+    "2": {
+      "item": "themysticjewels:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "themysticjewels:deleted_mod_element",
+    "count": 6
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "themysticjewels:blocks/dimensionoak_log_top",
+    "up": "themysticjewels:blocks/dimensionoak_log_top",
+    "north": "themysticjewels:blocks/dimensionoak_log_side",
+    "east": "themysticjewels:blocks/dimensionoak_log_side",
+    "south": "themysticjewels:blocks/dimensionoak_log_side",
+    "west": "themysticjewels:blocks/dimensionoak_log_side",
+    "particle": "themysticjewels:blocks/dimensionoak_log_top"
+  }
+}

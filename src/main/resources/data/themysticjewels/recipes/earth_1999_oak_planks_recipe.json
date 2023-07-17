@@ -1,0 +1,13 @@
+{
+  "group": "themysticjewels",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:earth1999oak_log"
+    }
+  ],
+  "result": {
+    "item": "themysticjewels:deleted_mod_element",
+    "count": 4
+  }
+}

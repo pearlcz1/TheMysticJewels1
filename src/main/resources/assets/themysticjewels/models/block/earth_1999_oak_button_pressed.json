@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "themysticjewels:blocks/earth1999oak_planks"
+  }
+}

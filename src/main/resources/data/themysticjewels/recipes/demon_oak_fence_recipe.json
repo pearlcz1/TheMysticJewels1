@@ -1,0 +1,32 @@
+{
+  "group": "themysticjewels",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "themysticjewels:deleted_mod_element"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "themysticjewels:deleted_mod_element"
+    },
+    "3": {
+      "item": "themysticjewels:deleted_mod_element"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "themysticjewels:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "themysticjewels:demon_oak_fence",
+    "count": 3
+  }
+}

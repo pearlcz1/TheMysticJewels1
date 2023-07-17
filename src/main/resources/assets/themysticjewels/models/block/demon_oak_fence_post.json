@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "themysticjewels:blocks/demonoak_planks",
+    "particle": "themysticjewels:blocks/demonoak_planks"
+  }
+}

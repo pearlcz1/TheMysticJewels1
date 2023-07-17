@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "themysticjewels:blocks/dimensionoak_planks",
+    "particle": "themysticjewels:blocks/dimensionoak_planks"
+  }
+}

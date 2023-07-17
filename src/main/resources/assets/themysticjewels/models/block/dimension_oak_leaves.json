@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "themysticjewels:blocks/dimensionoak_leaves",
+    "particle": "themysticjewels:blocks/dimensionoak_leaves"
+  }
+}

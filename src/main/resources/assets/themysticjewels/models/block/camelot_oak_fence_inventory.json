@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "themysticjewels:blocks/camelotoak_planks",
+    "particle": "themysticjewels:blocks/camelotoak_planks"
+  }
+}
