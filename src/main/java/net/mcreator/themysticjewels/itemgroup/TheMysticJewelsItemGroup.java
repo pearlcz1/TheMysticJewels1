@@ -7,13 +7,13 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 
-import net.mcreator.themysticjewels.item.JewelphotoItem;
+import net.mcreator.themysticjewels.item.JewelBoxItem;
 import net.mcreator.themysticjewels.ThemysticjewelsModElements;
 
 @ThemysticjewelsModElements.ModElement.Tag
 public class TheMysticJewelsItemGroup extends ThemysticjewelsModElements.ModElement {
 	public TheMysticJewelsItemGroup(ThemysticjewelsModElements instance) {
-		super(instance, 1);
+		super(instance, 10);
 	}
 
 	@Override
@@ -22,14 +22,14 @@ public class TheMysticJewelsItemGroup extends ThemysticjewelsModElements.ModElem
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(JewelphotoItem.block);
+				return new ItemStack(JewelBoxItem.block);
 			}
 
 			@OnlyIn(Dist.CLIENT)
 			public boolean hasSearchBar() {
-				return true;
+				return false;
 			}
-		}.setBackgroundImageName("item_search.png");
+		};
 	}
 	public static ItemGroup tab;
 }

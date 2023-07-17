@@ -2,15 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "TheMysticJewels",
-      "type": "tab",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "the_mystic_jewels"
-    },
-    {
       "name": "JeweleryBox",
       "type": "block",
       "sortid": 2,
@@ -152,6 +143,15 @@
           }
         ]
       }
+    },
+    {
+      "name": "TheMysticJewels",
+      "type": "tab",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_mystic_jewels"
     }
   ],
   "variable_elements": [],
@@ -162,8 +162,8 @@
       "item.themysticjewels.jewel_box": "Jewel Box",
       "item.themysticjewels.dimensional_clock_camo": "Dimensional Clock Camo",
       "item.themysticjewels.jewelphoto": "Jewelphoto",
-      "itemGroup.tabthe_mystic_jewels": "The Mystic Jewels",
-      "block.themysticjewels.jewelery_box": "Jewelery Box"
+      "block.themysticjewels.jewelery_box": "Jewelery Box",
+      "itemGroup.tabthe_mystic_jewels": "The Mystic Jewels"
     }
   },
   "foldersRoot": {

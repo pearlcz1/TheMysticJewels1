@@ -4,8 +4,8 @@
   "definition": {
     "name": "The Mystic Jewels",
     "icon": {
-      "value": "CUSTOM:Jewelphoto"
+      "value": "CUSTOM:JewelBox"
     },
-    "showSearch": true
+    "showSearch": false
   }
 }
