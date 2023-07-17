@@ -1,7 +1,11 @@
 {
+  "item.themysticjewels.demon_forest": "Demon Forest Key",
   "item.themysticjewels.dimesional_clock": "Dimesional Clock",
+  "block.themysticjewels.camelot_oak_log": "CamelotOak Log",
   "item.themysticjewels.jewel_box": "Jewel Box",
   "item.themysticjewels.dimensional_clock_camo": "Dimensional Clock Camo",
+  "block.themysticjewels.jewelery_box_open": "Jewelery Box Open",
+  "item.themysticjewels.cameloty": "Cameloty Key",
   "item.themysticjewels.jewelphoto": "Jewelphoto",
   "block.themysticjewels.jewelery_box": "Jewelery Box",
   "itemGroup.tabthe_mystic_jewels": "The Mystic Jewels"

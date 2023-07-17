@@ -26,7 +26,7 @@
     "hasSkyLight": false,
     "imitateOverworldBehaviour": true,
     "portalFrame": {
-      "value": "CUSTOM:CamelotOakWood"
+      "value": "CUSTOM:Earth1999OakLog"
     },
     "portalParticles": {
       "value": "CUSTOM:Dimension"

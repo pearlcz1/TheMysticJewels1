@@ -1,11 +1,22 @@
 
 package net.mcreator.themysticjewels.item;
 
-public class CamelotyItem extends Item {
+import net.minecraftforge.registries.ObjectHolder;
 
+import net.minecraft.world.World;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.ActionResultType;
+import net.minecraft.item.ItemUseContext;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.entity.player.PlayerEntity;
+
+import net.mcreator.themysticjewels.world.dimension.CamelotyDimension;
+import net.mcreator.themysticjewels.itemgroup.TheMysticJewelsItemGroup;
+
+public class CamelotyItem extends Item {
 	@ObjectHolder("themysticjewels:cameloty")
 	public static final Item block = null;
-
 	public CamelotyItem() {
 		super(new Item.Properties().group(TheMysticJewelsItemGroup.tab).maxDamage(64));
 	}
@@ -23,13 +34,11 @@ public class CamelotyItem extends Item {
 			int y = pos.getY();
 			int z = pos.getZ();
 			boolean success = false;
-
 			if (world.isAirBlock(pos) && true) {
 				CamelotyDimension.portal.portalSpawn(world, pos);
 				itemstack.damageItem(1, entity, c -> c.sendBreakAnimation(context.getHand()));
 				success = true;
 			}
-
 			return success ? ActionResultType.SUCCESS : ActionResultType.FAIL;
 		}
 	}

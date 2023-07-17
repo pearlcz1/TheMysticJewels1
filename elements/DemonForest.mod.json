@@ -22,7 +22,7 @@
     "hasSkyLight": false,
     "imitateOverworldBehaviour": true,
     "portalFrame": {
-      "value": "CUSTOM:DemonOakLog"
+      "value": "CUSTOM:CamelotOakPlanks"
     },
     "portalParticles": {
       "value": "CUSTOM:Dimension"
