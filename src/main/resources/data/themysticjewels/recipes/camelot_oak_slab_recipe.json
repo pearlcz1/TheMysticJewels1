@@ -6,17 +6,17 @@
   ],
   "key": {
     "0": {
-      "item": "themysticjewels:camelot_oak_planks"
+      "item": "themysticjewels:deleted_mod_element"
     },
     "1": {
-      "item": "themysticjewels:camelot_oak_planks"
+      "item": "themysticjewels:deleted_mod_element"
     },
     "2": {
-      "item": "themysticjewels:camelot_oak_planks"
+      "item": "themysticjewels:deleted_mod_element"
     }
   },
   "result": {
-    "item": "themysticjewels:camelot_oak_slab",
+    "item": "themysticjewels:deleted_mod_element",
     "count": 6
   }
 }

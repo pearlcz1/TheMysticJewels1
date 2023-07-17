@@ -6,17 +6,17 @@
   ],
   "key": {
     "0": {
-      "item": "themysticjewels:earth_1999_oak_planks"
+      "item": "themysticjewels:deleted_mod_element"
     },
     "1": {
-      "item": "themysticjewels:earth_1999_oak_planks"
+      "item": "themysticjewels:deleted_mod_element"
     },
     "2": {
-      "item": "themysticjewels:earth_1999_oak_planks"
+      "item": "themysticjewels:deleted_mod_element"
     }
   },
   "result": {
-    "item": "themysticjewels:earth_1999_oak_slab",
+    "item": "themysticjewels:deleted_mod_element",
     "count": 6
   }
 }

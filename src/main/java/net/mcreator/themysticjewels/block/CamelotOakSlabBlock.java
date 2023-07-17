@@ -1,34 +1,18 @@
 
 package net.mcreator.themysticjewels.block;
 
-import net.minecraftforge.registries.ObjectHolder;
-
-import net.minecraft.world.IBlockReader;
-import net.minecraft.util.math.BlockPos;
-import net.minecraft.util.Direction;
-import net.minecraft.state.properties.SlabType;
-import net.minecraft.loot.LootContext;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.Item;
-import net.minecraft.item.BlockItem;
 import net.minecraft.block.material.Material;
-import net.minecraft.block.SoundType;
-import net.minecraft.block.SlabBlock;
-import net.minecraft.block.BlockState;
-import net.minecraft.block.Block;
-
-import net.mcreator.themysticjewels.itemgroup.TheMysticJewelsItemGroup;
-import net.mcreator.themysticjewels.ThemysticjewelsModElements;
-
-import java.util.List;
-import java.util.Collections;
+import net.minecraft.util.SoundEvent;
 
 @ThemysticjewelsModElements.ModElement.Tag
 public class CamelotOakSlabBlock extends ThemysticjewelsModElements.ModElement {
+
 	@ObjectHolder("themysticjewels:camelot_oak_slab")
 	public static final Block block = null;
+
 	public CamelotOakSlabBlock(ThemysticjewelsModElements instance) {
 		super(instance, 43);
+
 	}
 
 	@Override
@@ -37,9 +21,12 @@ public class CamelotOakSlabBlock extends ThemysticjewelsModElements.ModElement {
 		elements.items
 				.add(() -> new BlockItem(block, new Item.Properties().group(TheMysticJewelsItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
+
 	public static class CustomBlock extends SlabBlock {
+
 		public CustomBlock() {
 			super(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(2f, 3f).setLightLevel(s -> 0));
+
 			setRegistryName("camelot_oak_slab");
 		}
 
@@ -55,5 +42,7 @@ public class CamelotOakSlabBlock extends ThemysticjewelsModElements.ModElement {
 				return dropsOriginal;
 			return Collections.singletonList(new ItemStack(this, state.get(TYPE) == SlabType.DOUBLE ? 2 : 1));
 		}
+
 	}
+
 }

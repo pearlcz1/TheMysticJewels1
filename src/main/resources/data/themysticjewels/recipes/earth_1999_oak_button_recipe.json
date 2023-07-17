@@ -3,11 +3,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "themysticjewels:earth_1999_oak_planks"
+      "item": "themysticjewels:deleted_mod_element"
     }
   ],
   "result": {
-    "item": "themysticjewels:earth_1999_oak_button",
+    "item": "themysticjewels:deleted_mod_element",
     "count": 1
   }
 }
