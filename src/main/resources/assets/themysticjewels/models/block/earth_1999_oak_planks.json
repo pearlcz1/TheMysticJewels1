@@ -1,7 +1,12 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube",
   "textures": {
-    "all": "themysticjewels:blocks/earth1999oak_planks",
+    "down": "themysticjewels:blocks/earth1999oak_planks",
+    "up": "themysticjewels:blocks/earth1999oak_planks",
+    "north": "themysticjewels:blocks/earth1999oak_planks",
+    "east": "themysticjewels:blocks/earth1999oak_planks",
+    "south": "themysticjewels:blocks/earth1999oak_planks",
+    "west": "themysticjewels:blocks/earth1999oak_planks",
     "particle": "themysticjewels:blocks/earth1999oak_planks"
   }
 }
